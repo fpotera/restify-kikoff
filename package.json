@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "restify": "^7.5.0"
+    "restify": "^7.5.0",
+    "swagger-node-restify": "^0.1.2",
+    "swagger-ui-dist": "^3.20.5"
   },
   "devDependencies": {},
   "scripts": {
