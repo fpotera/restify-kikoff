@@ -1,1 +1,1 @@
-# restify-kikoff
+# Skeleton project for Swagger
